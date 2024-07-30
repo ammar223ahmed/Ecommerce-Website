@@ -1,0 +1,45 @@
+body{
+    /* background-color: black; */
+    background-image: url("https://tse2.mm.bing.net/th?id=OIP.NeboPo_lq25UNpevzTXkVAHaEC&pid=Api&P=0&h=220");
+    background-repeat: no-repeat;
+    background-size: cover;
+ }
+
+
+.from_add_product{
+    border: 2px solid rgb(20, 19, 19);
+    background-color: rgb(18, 17, 17);
+    padding: 1em 3em;
+    margin-left: 5em;
+
+}
+
+.from_add_product input{
+    color: white;
+}
+
+.top_heading{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 0.6em;
+    font-weight: bold;
+    font-size: 2em;
+    /* text-shadow: 2px 2px 3px red; */
+    color: rgb(239, 239, 239);
+    text-shadow: 2px 2px 5px red;
+    /* text-align: center; */
+    margin-left: 6em;
+    text-decoration: underline;
+}
+
+.submit_btn{
+    width: 23em;
+    background-color: red;
+color: white;
+    font-weight: bold;
+    border-radius: 3px;
+}
+
+.submit_btn:hover{
+    background-color: white;
+    color: black;
+}
